@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Paper-DTrace" alt="Paper PDF">
 </a>
 <a href="https://arxiv.org/abs/2401.13267"><img src="https://img.shields.io/badge/arXiv-2401.13267-b31b1b.svg" alt="arXiv"></a>
-<a href="https://shuchangye-bib.github.io/websites/SGSeg/sgseg.html"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
+<a href="https://shuchangye-bib.github.io/websites/DTrace/dtrace.html"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
 
 **[The University of Sydney](https://www.sydney.edu.au)**; **[Macquarie University](https://www.mq.edu.au)**
 
