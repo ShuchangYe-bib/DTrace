@@ -1,5 +1,5 @@
 <div align="center">
-<h1>ProLearn: Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation</h1>
+<h1>DTrace: Dynamic Traceback Learning for Medical Report Generation</h1>
 
 <a href="https://arxiv.org/pdf/2401.13267" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Paper-DTrace" alt="Paper PDF">
